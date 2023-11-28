@@ -1,5 +1,7 @@
-const SayHello = ({ name }: { name: string }): JSX.Element => (
-  <div>Hey {name}, say hello to TypeScript.</div>
+const ReactTypescriptPageContent = (): JSX.Element => (
+  <div id={"microfrontend-react-typescript"}>
+    This particular div is being generated from a React + Typescript component.
+  </div>
 );
 
-export default SayHello;
+export default ReactTypescriptPageContent;

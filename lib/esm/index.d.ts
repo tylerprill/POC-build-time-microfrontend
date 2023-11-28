@@ -1,5 +1,3 @@
 /// <reference types="react" />
-declare const SayHello: ({ name }: {
-    name: string;
-}) => JSX.Element;
-export default SayHello;
+declare const ReactTypescriptPageContent: () => JSX.Element;
+export default ReactTypescriptPageContent;

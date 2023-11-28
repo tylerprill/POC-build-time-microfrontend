@@ -1,6 +1,6 @@
 {
-  "name": "@tylerprill/poc-packaged-component",
-  "version": "1.0.7",
+  "name": "@tylerprill/poc-buildtime-microfrontend",
+  "version": "1.0.0",
   "main": "lib/esm/index.js",
   "module": "lib/esm/index.js",
   "types": "lib/esm/index.d.ts",
