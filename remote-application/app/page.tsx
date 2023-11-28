@@ -1,5 +1,5 @@
 import Image from "next/image";
-import SectionFromRemote from "../../shared_assets_directory/src/SectionFromRemote";
+import SectionFromRemote from "../shared_assets_directory/src";
 
 export default function Home() {
   return (
